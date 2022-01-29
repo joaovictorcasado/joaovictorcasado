@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1 align="left">Eu me chamo João sejam todos  bem vindos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Olá, eu me chamo João <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictorcasado&color=blue" alt="Profile views" /> </p>
 
 
