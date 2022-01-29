@@ -54,7 +54,7 @@
 
 <br><br>
  
- ## <p align="center"> 👨🏽‍🦲 Redes Sociais </p>
+ ## <p align="center"> 👨 Redes Sociais </p>
 
 
 <p align="center">
