@@ -1,4 +1,3 @@
-![Sejam bem vindos, Eu sou João. Sou Desenvolvedor front-end](https://github.com/joaovictorcasado/joaovictorcasado/raw/main/bio.gif)
 
 <div align="center">
 
