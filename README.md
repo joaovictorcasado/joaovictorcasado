@@ -12,7 +12,7 @@
 <br> <br> <br> <br>
 
 
-- 💻 Desenvolvedor Front-End (Estudante)
+- 💻 Desenvolvedor Front-End
 
 - 💼 Em busca de uma Oportunidade !!
 
