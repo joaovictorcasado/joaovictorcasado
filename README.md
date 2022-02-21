@@ -41,19 +41,7 @@
 </div>  
 <br><br>
 
-## ⚙️ Estatísticas do Perfil
-
-<div align="left">
-<p>  
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=joaovictorcasado&show_icons=true&theme=midnight-purple" alt="joaovictorcasado's stats"/> 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcasado&layout=compact&theme=midnight-purple" alt="joaovictorcasado's most languages"/>
-</p>  
-  
-</div>
-
-<br><br>
- 
- ## <p align="center"> 👨 Redes Sociais </p>
+## <p align="center"> 👨 Redes Sociais </p>
 
 
 <p align="center">
@@ -74,4 +62,18 @@
 
 </p>
 
+
+## ⚙️ Estatísticas do Perfil
+
+<div align="left">
+<p>  
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=joaovictorcasado&show_icons=true&theme=midnight-purple" alt="joaovictorcasado's stats"/> 
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcasado&layout=compact&theme=midnight-purple" alt="joaovictorcasado's most languages"/>
+</p>  
+  
+</div>
+
+<br><br>
+ 
+ 
 
